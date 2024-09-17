@@ -13,3 +13,7 @@ function isAbove18(age) {
 function hello() {
     console.log("hello..")
 }
+
+function feature1() {
+    console.log("This is a new feature1")
+}
