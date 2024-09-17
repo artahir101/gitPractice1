@@ -14,6 +14,6 @@ function hello() {
     console.log("hello..")
 }
 
-function feature1() {
-    console.log("This is a new feature1")
+function feature() {
+    console.log("This is feature1")
 }
