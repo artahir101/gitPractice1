@@ -9,3 +9,7 @@ function sayName() {
 function isAbove18(age) {
     return age >= 18
 }
+
+function hello() {
+    console.log("hello..")
+}
