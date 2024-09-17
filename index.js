@@ -1,4 +1,4 @@
-const age = 5
+const age = 56;
 const name1 = "artahir"
 const dob = "14/3/2002"
 
